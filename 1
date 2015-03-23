@@ -1,0 +1,23 @@
+\documentclass[norsk,10pt]{book}
+\usepackage{kantlipsum}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx,babel,mathpple,textcomp,varioref}
+\usepackage{wrapfig}
+\usepackage[font=footnotesize,labelfont=it]{caption}
+\usepackage{lscape}
+\newenvironment{dialogue}{\let\item\par}{\par\aftergroup\noindent\aftergroup\ignorespaces}
+\usepackage[margin=1in, paperwidth=10in, paperheight=8in]{geometry}
+\newcommand*{\plogo}{\fbox{$\mathcal{PL}$}} % Generic publisher logo
+%\usepackage{fullpage}
+\author{A.S.K}
+\title{Akseladdens}
+\date{}
+
+\begin{document}
+%\pagestyle{empty} % Removes page numbers
+\maketitle
+\include{Soramerika}
+\include{Svalbard}
+\end{document}
+

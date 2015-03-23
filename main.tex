@@ -1,0 +1,45 @@
+\documentclass[norsk,10pt,twoside]{book}
+\usepackage{kantlipsum}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx,babel,mathpple,textcomp,varioref}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage[font=footnotesize,labelfont=it]{caption}
+\usepackage{lscape}
+\usepackage{etoolbox}
+\usepackage{pdfpages}
+\makeatletter
+
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+
+\makeatother
+
+\newenvironment{dialogue}{\let\item\par}{\par\aftergroup\noindent\aftergroup\ignorespaces}
+
+\usepackage[margin=1in, paperwidth=6.125in, paperheight=9.250in]{geometry}\newcommand*{\plogo}{\fbox{$\mathcal{PL}$}} % Generic publisher logo
+
+\newcommand*{\plogo}{\fbox{$\mathcal{PL}$}} % Generic publisher logo
+%\usepackage{fullpage}
+
+\include{dobbelbilde}
+
+
+\author{A.S.K}
+\title{Akseladdens}
+\date{}
+
+\begin{document}
+\pagestyle{empty} % Removes page numbers
+\chapter*{Forord}
+Er oppskrytt
+
+\include{Soramerikaforside}
+
+%\include{Soramerika}
+
+\include{svalbardforside}
+
+\include{Svalbard}
+\end{document}
+
