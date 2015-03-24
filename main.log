@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.3.5)  24 MAR 2015 00:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.3.5)  24 MAR 2015 02:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -816,6 +816,9 @@ Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 ) (./main.aux
 (./Soramerikaforside.aux) (./Soramerika.aux
 
+LaTeX Warning: Label `fig:coverphoto' multiply defined.
+
+
 LaTeX Warning: Label `fig:colombia' multiply defined.
 
 ) (./svalbardforside.aux) (./Svalbard.aux))
@@ -1046,204 +1049,305 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--59
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--75
+
+ []
+
 [4
 
- <./mengelezoo.jpg>] [5]
-<viktigaabrukeallsolkremen.jpg, id=24, 1901.60437pt x 1626.075pt>
+ <./mengelezoo.jpg>] <rio.jpg, id=21, 2168.1pt x 2168.1pt>
+File: rio.jpg Graphic file (type jpg)
+ <use rio.jpg>
+Package pdftex.def Info: rio.jpg used on input line 98.
+(pdftex.def)             Requested size: 208.67873pt x 208.65132pt.
+
+[5 <./rio.jpg>]
+<viktigaabrukeallsolkremen.jpg, id=25, 1901.60437pt x 1626.075pt>
 File: viktigaabrukeallsolkremen.jpg Graphic file (type jpg)
 
 <use viktigaabrukeallsolkremen.jpg>
-Package pdftex.def Info: viktigaabrukeallsolkremen.jpg used on input line 108.
+Package pdftex.def Info: viktigaabrukeallsolkremen.jpg used on input line 115.
 (pdftex.def)             Requested size: 298.11377pt x 254.91719pt.
- [6
-
- <./viktigaabrukeallsolkremen.jpg>]
+ [6 <./viktigaabrukeallsolkremen.jpg>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <8> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 114.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 121.
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <8> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 114.
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 121.
 
-<coverphoto.jpeg, id=28, 963.6pt x 542.025pt>
+<coverphoto.jpeg, id=29, 963.6pt x 542.025pt>
 File: coverphoto.jpeg Graphic file (type jpg)
  <use coverphoto.jpeg>
-Package pdftex.def Info: coverphoto.jpeg used on input line 117.
-(pdftex.def)             Requested size: 442.65375pt x 248.98715pt.
+Package pdftex.def Info: coverphoto.jpeg used on input line 124.
+(pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
+
+<haiiighfive.jpeg, id=30, 963.6pt x 542.025pt>
+File: haiiighfive.jpeg Graphic file (type jpg)
+ <use haiiighfive.jpeg>
+Package pdftex.def Info: haiiighfive.jpeg used on input line 132.
+(pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
  [7
 
- <./coverphoto.jpeg>] <stllehavet.jpg, id=34, 2168.1pt x 3854.4pt>
+ <./coverphoto.jpeg> <./haiiighfive.jpeg>]
+<stllehavet.jpg, id=36, 2168.1pt x 3854.4pt>
 File: stllehavet.jpg Graphic file (type jpg)
  <use stllehavet.jpg>
-Package pdftex.def Info: stllehavet.jpg used on input line 129.
+Package pdftex.def Info: stllehavet.jpg used on input line 144.
 (pdftex.def)             Requested size: 143.09332pt x 254.36766pt.
 
-Overfull \hbox (8.94304pt too wide) in paragraph at lines 129--130
+Overfull \hbox (8.94304pt too wide) in paragraph at lines 144--145
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--158
+Underfull \hbox (badness 1596) in paragraph at lines 148--165
+\T1/ppl/m/n/10 gyn-ner med et smell da vi be-
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 148--165
+\T1/ppl/m/n/10 de var vi i lys-tig lag res-ten av
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 148--165
+\T1/ppl/m/n/10 Det var vans-ke-lig å ikke kom-
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 148--165
+\T1/ppl/m/n/10 om Peru. For det først er ikke
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 148--165
+\T1/ppl/m/n/10 Pe-rua-ne-re vant til å se Euro-pe-
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 148--165
+\T1/ppl/m/n/10 ere. For det and-re ser de svært
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 148--165
+\T1/ppl/m/n/10 an-ner-le-des ut en nord-menn. De
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 148--165
+\T1/ppl/m/n/10 er ge-ne-relt lave og har mørkt
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 148--165
+\T1/ppl/m/n/10 å ta bil-der. Pla-tina-blon-de Maa-
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 148--165
+\T1/ppl/m/n/10 stek på 1.90 med øyne stjå-let
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 148--165
+\T1/ppl/m/n/10 fra is-bre-en fikk folk til å skli
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 148--165
+\T1/ppl/m/n/10 av sto-len. Ok. Da har du bak-
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 148--165
+\T1/ppl/m/n/10 grunns-in-for-ma-sjo-nen du tren-ger.
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 148--165
+\T1/ppl/m/n/10 min side var hen-del-se-fore-lø-pet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--164
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
 [8
 
- <./stllehavet.jpg>] [9]
+ <./stllehavet.jpg>] <skiltlagunachurup.jpeg, id=40, 963.6pt x 542.025pt>
+File: skiltlagunachurup.jpeg Graphic file (type jpg)
+
+<use skiltlagunachurup.jpeg>
+Package pdftex.def Info: skiltlagunachurup.jpeg used on input line 193.
+(pdftex.def)             Requested size: 442.65375pt x 248.98715pt.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 175.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 198.
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--189
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
 
  []
 
 
-Overfull \hbox (3.39252pt too wide) in paragraph at lines 190--199
+Underfull \hbox (badness 10000) in paragraph at lines 209--212
+
+ []
+
+[9 <./skiltlagunachurup.jpeg>]
+Overfull \hbox (3.39252pt too wide) in paragraph at lines 213--222
 \T1/ppl/m/n/10 tyholt-venner, spilte-fotball-sammen-i-7.-venner. Er håp-løst. M
 ed da-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--199
+Underfull \hbox (badness 10000) in paragraph at lines 213--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--206
+Underfull \hbox (badness 10000) in paragraph at lines 223--229
 
  []
 
-<takeroppskrytt.jpg, id=41, 3854.4pt x 2168.1pt>
-File: takeroppskrytt.jpg Graphic file (type jpg)
- <use takeroppskrytt.jpg>
-Package pdftex.def Info: takeroppskrytt.jpg used on input line 217.
-(pdftex.def)             Requested size: 298.11377pt x 167.66211pt.
+<akselsurf.jpg, id=44, 963.6pt x 542.025pt>
+File: akselsurf.jpg Graphic file (type jpg)
+ <use akselsurf.jpg>
+Package pdftex.def Info: akselsurf.jpg used on input line 239.
+(pdftex.def)             Requested size: 442.65375pt x 248.98715pt.
 
-Overfull \hbox (6.05994pt too wide) in paragraph at lines 217--218
- []\T1/ppl/m/n/10 |[] 
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--231
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 243--253
 
  []
 
-[10
-
-] <kyllingfot.jpg, id=45, 1084.05pt x 1782.66pt>
+<kyllingfot.jpg, id=48, 1084.05pt x 1782.66pt>
 File: kyllingfot.jpg Graphic file (type jpg)
  <use kyllingfot.jpg>
-Package pdftex.def Info: kyllingfot.jpg used on input line 245.
+Package pdftex.def Info: kyllingfot.jpg used on input line 267.
 (pdftex.def)             Requested size: 143.09332pt x 235.29008pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Hotellromhuaraz.jpg, id=46, 3854.4pt x 2168.1pt>
+ [11 <./akselsurf.jpg>] <Hotellromhuaraz.jpg, id=52, 3854.4pt x 2168.1pt>
 File: Hotellromhuaraz.jpg Graphic file (type jpg)
- <use Hotellromhuaraz.jpg>
-Package pdftex.def Info: Hotellromhuaraz.jpg used on input line 268.
+
+<use Hotellromhuaraz.jpg>
+Package pdftex.def Info: Hotellromhuaraz.jpg used on input line 290.
 (pdftex.def)             Requested size: 298.11377pt x 167.66211pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 286--297
-
- []
-
-[11 <./takeroppskrytt.jpg>] [12 <./kyllingfot.jpg> <./Hotellromhuaraz.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 298--306
+[12 <./kyllingfot.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 308--319
 
  []
 
-<esel.jpg, id=53, 963.6pt x 542.025pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--328
+
+ []
+
+<esel.jpg, id=56, 963.6pt x 542.025pt>
 File: esel.jpg Graphic file (type jpg)
  <use esel.jpg>
-Package pdftex.def Info: esel.jpg used on input line 313.
+Package pdftex.def Info: esel.jpg used on input line 335.
 (pdftex.def)             Requested size: 298.11377pt x 167.6869pt.
- [13 <./esel.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 335--338
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./Hotellromhuaraz.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 357--360
 
  []
 
-<Andesfjellenemarius.jpg, id=58, 3586.39874pt x 1509.64pt>
+<Andesfjellenemarius.jpg, id=61, 3586.39874pt x 1509.64pt>
 File: Andesfjellenemarius.jpg Graphic file (type jpg)
 
 <use Andesfjellenemarius.jpg>
-Package pdftex.def Info: Andesfjellenemarius.jpg used on input line 341.
+Package pdftex.def Info: Andesfjellenemarius.jpg used on input line 363.
 (pdftex.def)             Requested size: 442.65375pt x 186.30887pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--352
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--374
 
  []
 
-<akselogmariusiregn2.jpg, id=59, 963.6pt x 542.025pt>
+[14 <./esel.jpg>] <akselogmariusiregn2.jpg, id=65, 963.6pt x 542.025pt>
 File: akselogmariusiregn2.jpg Graphic file (type jpg)
 
 <use akselogmariusiregn2.jpg>
-Package pdftex.def Info: akselogmariusiregn2.jpg used on input line 368.
+Package pdftex.def Info: akselogmariusiregn2.jpg used on input line 390.
 (pdftex.def)             Requested size: 298.11377pt x 167.6869pt.
- [14 <./Andesfjellenemarius.jpg>]
-<akselidalen.jpg, id=63, 542.025pt x 963.6pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./Andesfjellenemarius.jpg>] <akselidalen.jpg, id=69, 542.025pt x 963.6pt>
 File: akselidalen.jpg Graphic file (type jpg)
- <use akselidalen.jpg>
-Package pdftex.def Info: akselidalen.jpg used on input line 391.
+
+<use akselidalen.jpg>
+Package pdftex.def Info: akselidalen.jpg used on input line 413.
 (pdftex.def)             Requested size: 208.67873pt x 370.9798pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15 <./akselogmariusiregn2.jpg>] [16 <./akselidalen.jpg>]
-<stjernerinationalpark.jpg, id=70, 963.6pt x 542.025pt>
+[16 <./akselogmariusiregn2.jpg>] [17 <./akselidalen.jpg>]
+<stjernerinationalpark.jpg, id=76, 963.6pt x 542.025pt>
 File: stjernerinationalpark.jpg Graphic file (type jpg)
 
 <use stjernerinationalpark.jpg>
-Package pdftex.def Info: stjernerinationalpark.jpg used on input line 401.
+Package pdftex.def Info: stjernerinationalpark.jpg used on input line 423.
 (pdftex.def)             Requested size: 442.65375pt x 248.98715pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 407--413
+Underfull \hbox (badness 10000) in paragraph at lines 429--435
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--427
+Underfull \hbox (badness 10000) in paragraph at lines 436--449
 
  []
 
-[17
+[18
 
  <./stjernerinationalpark.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 456--461
+Underfull \hbox (badness 10000) in paragraph at lines 478--483
 
  []
 
-[18] <workinghard.jpg, id=77, 777.90625pt x 700.6175pt>
+[19] <workinghard.jpg, id=84, 777.90625pt x 700.6175pt>
 File: workinghard.jpg Graphic file (type jpg)
  <use workinghard.jpg>
-Package pdftex.def Info: workinghard.jpg used on input line 485.
+Package pdftex.def Info: workinghard.jpg used on input line 507.
 (pdftex.def)             Requested size: 298.11377pt x 268.50381pt.
 
-[19 <./workinghard.jpg>]
+[20 <./workinghard.jpg>]
 Underfull \vbox (badness 2799) has occurred while \output is active []
 
- [20]
-<kgbbar.jpg, id=85, 547.2947pt x 421.575pt>
+ [21]
+<kgbbar.jpg, id=91, 547.2947pt x 421.575pt>
 File: kgbbar.jpg Graphic file (type jpg)
  <use kgbbar.jpg>
-Package pdftex.def Info: kgbbar.jpg used on input line 550.
+Package pdftex.def Info: kgbbar.jpg used on input line 572.
 (pdftex.def)             Requested size: 298.11377pt x 229.63481pt.
 
 
@@ -1253,86 +1357,86 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.554 \clearpage
+l.576 \clearpage
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[21 <./kgbbar.jpg>] <Kjopmatmarius.JPG, id=89, 2168.1pt x 3854.4pt>
+[22 <./kgbbar.jpg>] <Kjopmatmarius.JPG, id=95, 2168.1pt x 3854.4pt>
 File: Kjopmatmarius.JPG Graphic file (type jpg)
 
 <use Kjopmatmarius.JPG>
-Package pdftex.def Info: Kjopmatmarius.JPG used on input line 577.
+Package pdftex.def Info: Kjopmatmarius.JPG used on input line 599.
 (pdftex.def)             Requested size: 89.43503pt x 158.97243pt.
 
-Underfull \hbox (badness 1043) in paragraph at lines 582--586
+Underfull \hbox (badness 1043) in paragraph at lines 604--608
 \T1/ppl/m/n/10 på seg an-sva-ret å kjø-pe inn litt
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 582--586
+Underfull \hbox (badness 1275) in paragraph at lines 604--608
 \T1/ppl/m/n/10 ger enda på at de alle så sånn
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--586
+Underfull \hbox (badness 10000) in paragraph at lines 604--608
 
  []
 
-[22
+[23
 
- <./Kjopmatmarius.JPG>] <tabbenkel.png, id=93, 100.375pt x 253.748pt>
+ <./Kjopmatmarius.JPG>] <tabbenkel.png, id=99, 100.375pt x 253.748pt>
 File: tabbenkel.png Graphic file (type png)
 
 <use tabbenkel.png>
-Package pdftex.def Info: tabbenkel.png used on input line 627.
+Package pdftex.def Info: tabbenkel.png used on input line 649.
 (pdftex.def)             Requested size: 42.88164pt x 108.405pt.
-LaTeX Font Info:    Try loading font information for OT1+zpple on input line 63
-0.
+LaTeX Font Info:    Try loading font information for OT1+zpple on input line 65
+2.
  (/usr/share/texmf-dist/tex/latex/psnfss/ot1zpple.fd
 File: ot1zpple.fd 1999/12/20 Fontinst v1.801 font definitions for OT1/zpple.
 )
-LaTeX Font Info:    Try loading font information for OML+zpple on input line 63
-0.
+LaTeX Font Info:    Try loading font information for OML+zpple on input line 65
+2.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omlzpple.fd
 File: omlzpple.fd 1999/12/20 Fontinst v1.801 font definitions for OML/zpple.
 )
-LaTeX Font Info:    Try loading font information for OMS+zpple on input line 63
-0.
+LaTeX Font Info:    Try loading font information for OMS+zpple on input line 65
+2.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omszpple.fd
 File: omszpple.fd 1999/12/20 Fontinst v1.801 font definitions for OMS/zpple.
 )
-LaTeX Font Info:    Try loading font information for OMX+zpple on input line 63
-0.
+LaTeX Font Info:    Try loading font information for OMX+zpple on input line 65
+2.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omxzpple.fd
 File: omxzpple.fd 1999/12/20 Fontinst v1.801 font definitions for OMX/zpple.
 )
-<avanserttabbe.png, id=95, 347.699pt x 240.097pt>
+<avanserttabbe.png, id=101, 347.699pt x 240.097pt>
 File: avanserttabbe.png Graphic file (type png)
  <use avanserttabbe.png>
-Package pdftex.def Info: avanserttabbe.png used on input line 633.
+Package pdftex.def Info: avanserttabbe.png used on input line 655.
 (pdftex.def)             Requested size: 156.98834pt x 108.405pt.
 
-<tayronapark.jpg, id=96, 3854.4pt x 2168.1pt>
+<tayronapark.jpg, id=102, 3854.4pt x 2168.1pt>
 File: tayronapark.jpg Graphic file (type jpg)
  <use tayronapark.jpg>
-Package pdftex.def Info: tayronapark.jpg used on input line 644.
+Package pdftex.def Info: tayronapark.jpg used on input line 666.
 (pdftex.def)             Requested size: 208.67873pt x 117.37671pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <./tabbenkel.png> <./avanserttabbe.png>]
-<soveikoye.jpg, id=102, 963.6pt x 542.025pt>
+ [24 <./tabbenkel.png> <./avanserttabbe.png>]
+<soveikoye.jpg, id=108, 963.6pt x 542.025pt>
 File: soveikoye.jpg Graphic file (type jpg)
  <use soveikoye.jpg>
-Package pdftex.def Info: soveikoye.jpg used on input line 652.
+Package pdftex.def Info: soveikoye.jpg used on input line 674.
 (pdftex.def)             Requested size: 298.11377pt x 167.6869pt.
 
-Overfull \hbox (3.29324pt too wide) in paragraph at lines 670--676
+Overfull \hbox (3.29324pt too wide) in paragraph at lines 692--698
 \T1/ppl/m/n/10 so-len med en coco-loco i hån-den mens man ven-ter på på nes-te 
 palme-
  []
@@ -1340,33 +1444,33 @@ palme-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24 <./tayronapark.jpg> <./soveikoye.jpg>]
-<minstenotta.JPG, id=106, 2055.68pt x 1541.76pt>
+ [25 <./tayronapark.jpg> <./soveikoye.jpg>]
+<minstenotta.JPG, id=113, 2055.68pt x 1541.76pt>
 File: minstenotta.JPG Graphic file (type jpg)
  <use minstenotta.JPG>
-Package pdftex.def Info: minstenotta.JPG used on input line 679.
+Package pdftex.def Info: minstenotta.JPG used on input line 701.
 (pdftex.def)             Requested size: 442.65375pt x 331.9895pt.
- [25 <./minstenotta.JPG>] <enoy2.JPG, id=111, 2055.68pt x 1541.76pt>
+ [26 <./minstenotta.JPG>] <enoy2.JPG, id=117, 2055.68pt x 1541.76pt>
 File: enoy2.JPG Graphic file (type jpg)
  <use enoy2.JPG>
-Package pdftex.def Info: enoy2.JPG used on input line 689.
+Package pdftex.def Info: enoy2.JPG used on input line 711.
 (pdftex.def)             Requested size: 896.127pt x 672.1112pt.
 
 
-LaTeX Warning: Float too large for page by 71.33134pt on input line 690.
+LaTeX Warning: Float too large for page by 71.33134pt on input line 712.
 
-<flex.JPG, id=112, 1541.76pt x 2055.68pt>
+<flex.JPG, id=118, 1541.76pt x 2055.68pt>
 File: flex.JPG Graphic file (type jpg)
  <use flex.JPG>
-Package pdftex.def Info: flex.JPG used on input line 712.
+Package pdftex.def Info: flex.JPG used on input line 734.
 (pdftex.def)             Requested size: 298.11377pt x 397.48402pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26
+ [27
 
 ]
-[27 <./enoy2.JPG>]
+[28 <./enoy2.JPG>]
 
 ! LaTeX Error: File `vollyduel' not found.
 
@@ -1374,7 +1478,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.722 	\includegraphics{vollyduel}
+l.745 	\includegraphics{vollyduel}
                                   
 I could not locate the file with any of these extensions:
 .png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
@@ -1382,17 +1486,12 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 730--743
+Underfull \vbox (badness 6445) has occurred while \output is active []
 
- []
-
-
-Underfull \vbox (badness 1264) has occurred while \output is active []
-
- [28 <./flex.JPG>] <vennskapvol2.jpg, id=122, 1284.8pt x 963.6pt>
+ [29 <./flex.JPG>] <vennskapvol2.jpg, id=128, 1284.8pt x 963.6pt>
 File: vennskapvol2.jpg Graphic file (type jpg)
  <use vennskapvol2.jpg>
-Package pdftex.def Info: vennskapvol2.jpg used on input line 755.
+Package pdftex.def Info: vennskapvol2.jpg used on input line 778.
 (pdftex.def)             Requested size: 298.11377pt x 223.57887pt.
 
 
@@ -1405,58 +1504,63 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.770 \subsection
+l.793 \subsection
                  *{My whole life is a lie}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<akselogclara.JPG, id=123, 2055.68pt x 1541.76pt>
+<akselogclara.JPG, id=129, 2055.68pt x 1541.76pt>
 File: akselogclara.JPG Graphic file (type jpg)
  <use akselogclara.JPG>
-Package pdftex.def Info: akselogclara.JPG used on input line 774.
+Package pdftex.def Info: akselogclara.JPG used on input line 797.
 (pdftex.def)             Requested size: 298.11377pt x 223.58476pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
+ [30]
 Overfull \vbox (9.31291pt too high) has occurred while \output is active []
 
 
-[30 <./vennskapvol2.jpg> <./akselogclara.JPG>]
-<homsebloko.JPG, id=130, 3854.4pt x 2168.1pt>
+[31 <./vennskapvol2.jpg> <./akselogclara.JPG>]
+<homsebloko.JPG, id=137, 3854.4pt x 2168.1pt>
 File: homsebloko.JPG Graphic file (type jpg)
  <use homsebloko.JPG>
-Package pdftex.def Info: homsebloko.JPG used on input line 814.
+Package pdftex.def Info: homsebloko.JPG used on input line 838.
 (pdftex.def)             Requested size: 442.65375pt x 248.9789pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31]
-<livmaareddes.JPG, id=135, 2055.68pt x 1541.76pt>
+ [32]
+<livmaareddes.JPG, id=141, 2055.68pt x 1541.76pt>
 File: livmaareddes.JPG Graphic file (type jpg)
  <use livmaareddes.JPG>
-Package pdftex.def Info: livmaareddes.JPG used on input line 819.
+Package pdftex.def Info: livmaareddes.JPG used on input line 843.
 (pdftex.def)             Requested size: 885.3075pt x 663.979pt.
 
 
-LaTeX Warning: Float too large for page by 87.25148pt on input line 819.
+LaTeX Warning: Float too large for page by 87.25148pt on input line 843.
 
 File: livmaareddes.JPG Graphic file (type jpg)
 <use livmaareddes.JPG>
-Package pdftex.def Info: livmaareddes.JPG used on input line 819.
+Package pdftex.def Info: livmaareddes.JPG used on input line 843.
 (pdftex.def)             Requested size: 885.3075pt x 663.979pt.
 
 
-LaTeX Warning: Float too large for page by 67.7515pt on input line 819.
+LaTeX Warning: Float too large for page by 67.7515pt on input line 843.
 
-[32 <./homsebloko.JPG>])
-Overfull \hbox (3.85216pt too wide) in paragraph at lines 841--48
+[33 <./homsebloko.JPG>]
+Overfull \hbox (3.85216pt too wide) in paragraph at lines 865--867
 []\T1/ppl/m/n/10 Alle dis-se punk-te-ne har en his-to-rie. De vil imid-ler-tid 
 bli tatt munt-
  []
 
-[33] [34 <./livmaareddes.JPG>] [35]
+<matroser.jpg, id=145, 642.4pt x 642.4pt>
+File: matroser.jpg Graphic file (type jpg)
+ <use matroser.jpg>
+Package pdftex.def Info: matroser.jpg used on input line 870.
+(pdftex.def)             Requested size: 298.11377pt x 298.11497pt.
+) [34 <./matroser.jpg>] [35 <./livmaareddes.JPG>] [36]
 \openout2 = `svalbardforside.aux'.
 
  (./svalbardforside.tex
@@ -1473,20 +1577,20 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<tunaglacierstian.jpg, id=148, 1606.0pt x 1071.00125pt>
+<tunaglacierstian.jpg, id=155, 1606.0pt x 1071.00125pt>
 File: tunaglacierstian.jpg Graphic file (type jpg)
 
 <use tunaglacierstian.jpg>
 Package pdftex.def Info: tunaglacierstian.jpg used on input line 6.
 (pdftex.def)             Requested size: 442.65375pt x 295.18811pt.
-) [36
+) [37
 
 
  <./tunaglacierstian.jpg>]
 \openout2 = `Svalbard.aux'.
 
  (./Svalbard.tex
-[37
+[38
 
 
 ]
@@ -1494,7 +1598,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
-<tokdubildet.jpg, id=156, 963.6pt x 542.025pt>
+<tokdubildet.jpg, id=163, 963.6pt x 542.025pt>
 File: tokdubildet.jpg Graphic file (type jpg)
  <use tokdubildet.jpg>
 Package pdftex.def Info: tokdubildet.jpg used on input line 59.
@@ -1504,13 +1608,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--82
 
  []
 
-<klarforutsikselfie.jpg, id=157, 1084.05pt x 1782.66pt>
+<klarforutsikselfie.jpg, id=164, 1084.05pt x 1782.66pt>
 File: klarforutsikselfie.jpg Graphic file (type jpg)
 
 <use klarforutsikselfie.jpg>
 Package pdftex.def Info: klarforutsikselfie.jpg used on input line 87.
 (pdftex.def)             Requested size: 143.09332pt x 235.29008pt.
- [38 <./tokdubildet.jpg>]
+ [39 <./tokdubildet.jpg>]
 Underfull \hbox (badness 4193) in paragraph at lines 92--100
 \T1/ppl/m/n/10 te li-vet på spill ved å be-
  []
@@ -1570,7 +1674,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--110
 
  []
 
-<Colesbay.jpg, id=161, 963.6pt x 722.7pt>
+<Colesbay.jpg, id=168, 963.6pt x 722.7pt>
 File: Colesbay.jpg Graphic file (type jpg)
  <use Colesbay.jpg>
 Package pdftex.def Info: Colesbay.jpg used on input line 113.
@@ -1582,15 +1686,15 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Underfull \vbox (badness 3646) has occurred while \output is active []
 
- [39 <./klarforutsikselfie.jpg>]
-<Turbarentsburgliten.png, id=165, 920.43875pt x 646.415pt>
+ [40 <./klarforutsikselfie.jpg>]
+<Turbarentsburgliten.png, id=172, 920.43875pt x 646.415pt>
 File: Turbarentsburgliten.png Graphic file (type png)
 
 <use Turbarentsburgliten.png>
 Package pdftex.def Info: Turbarentsburgliten.png used on input line 137.
 (pdftex.def)             Requested size: 202.49715pt x 142.21173pt.
 
-<Turbarentsburgstor.png, id=166, 1094.0875pt x 693.59125pt>
+<Turbarentsburgstor.png, id=173, 1094.0875pt x 693.59125pt>
 File: Turbarentsburgstor.png Graphic file (type png)
 
 <use Turbarentsburgstor.png>
@@ -1605,8 +1709,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--160
 
  []
 
-[40 <./Colesbay.jpg> <./Turbarentsburgliten.png>]
-<baatis.jpg, id=170, 1606.0pt x 1071.00125pt>
+[41 <./Colesbay.jpg> <./Turbarentsburgliten.png>]
+<baatis.jpg, id=177, 1606.0pt x 1071.00125pt>
 File: baatis.jpg Graphic file (type jpg)
  <use baatis.jpg>
 Package pdftex.def Info: baatis.jpg used on input line 163.
@@ -1623,7 +1727,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--185
 
 Underfull \vbox (badness 1496) has occurred while \output is active []
 
- [41 <./Turbarentsburgstor.png>] <Hundespann.jpg, id=174, 642.4pt x 481.8pt>
+ [42 <./Turbarentsburgstor.png>] <Hundespann.jpg, id=181, 642.4pt x 481.8pt>
 File: Hundespann.jpg Graphic file (type jpg)
 
 <use Hundespann.jpg>
@@ -1633,7 +1737,7 @@ Package pdftex.def Info: Hundespann.jpg used on input line 196.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<reinisolnedgang.jpg, id=175, 1017.8025pt x 678.535pt>
+<reinisolnedgang.jpg, id=182, 1017.8025pt x 678.535pt>
 File: reinisolnedgang.jpg Graphic file (type jpg)
 
 <use reinisolnedgang.jpg>
@@ -1642,11 +1746,11 @@ Package pdftex.def Info: reinisolnedgang.jpg used on input line 203.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42 <./baatis.jpg>]
+ [43 <./baatis.jpg>]
 Overfull \vbox (49.7269pt too high) has occurred while \output is active []
 
 
-[43 <./Hundespann.jpg> <./reinisolnedgang.jpg>]
+[44 <./Hundespann.jpg> <./reinisolnedgang.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 209--223
 
  []
@@ -1669,38 +1773,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--264
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44]
+ [45]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 276.
 
-<Scooterogski.JPG, id=186, 3854.4pt x 2168.1pt>
+<Scooterogski.JPG, id=193, 3854.4pt x 2168.1pt>
 File: Scooterogski.JPG Graphic file (type jpg)
  <use Scooterogski.JPG>
 Package pdftex.def Info: Scooterogski.JPG used on input line 278.
 (pdftex.def)             Requested size: 298.11377pt x 167.66211pt.
- [45 <./Scooterogski.JPG>]) [46] (./main.aux (./Soramerikaforside.aux) (./Soram
+ [46 <./Scooterogski.JPG>]) [47] (./main.aux (./Soramerikaforside.aux) (./Soram
 erika.aux) (./svalbardforside.aux) (./Svalbard.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13242 strings out of 493108
- 226935 string characters out of 6140726
- 560070 words of memory out of 5000000
- 16421 multiletter control sequences out of 15000+600000
- 26434 words of font info for 52 fonts, out of 8000000 for 9000
+ 13279 strings out of 493108
+ 227488 string characters out of 6140726
+ 560199 words of memory out of 5000000
+ 16451 multiletter control sequences out of 15000+600000
+ 34215 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,8n,77p,10411b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatin
 o/uplbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (46 pages, 31273072 bytes).
+Output written on main.pdf (47 pages, 29505034 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
+ 219 PDF objects out of 1000 (max. 8388607)
+ 120 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
