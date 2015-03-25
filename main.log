@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.3.5)  25 MAR 2015 00:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.3.5)  25 MAR 2015 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1645,132 +1645,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--83
 
  []
 
-<klarforutsikselfie.jpg, id=176, 1084.05pt x 1782.66pt>
+[42 <./tokdubildet.jpg>]
+<klarforutsikselfie.jpg, id=179, 1084.05pt x 1782.66pt>
 File: klarforutsikselfie.jpg Graphic file (type jpg)
 
 <use klarforutsikselfie.jpg>
-Package pdftex.def Info: klarforutsikselfie.jpg used on input line 88.
+Package pdftex.def Info: klarforutsikselfie.jpg used on input line 93.
 (pdftex.def)             Requested size: 143.09332pt x 235.29008pt.
- [42 <./tokdubildet.jpg>]
-Underfull \hbox (badness 4193) in paragraph at lines 93--101
-\T1/ppl/m/n/10 te li-vet på spill ved å be-
- []
-
-
-Underfull \hbox (badness 3690) in paragraph at lines 93--101
-\T1/ppl/m/n/10 kref-te fy-sis-ke lo-ver. Feks ta
- []
-
-
-Underfull \hbox (badness 1603) in paragraph at lines 93--101
-\T1/ppl/m/n/10 ke seg selv som en lyn-av-le-
- []
-
-
-Underfull \hbox (badness 4328) in paragraph at lines 93--101
-\T1/ppl/m/n/10 der for å vise a at strøm-
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 93--101
-\T1/ppl/m/n/10 men går let-tes-te vei. Jeg bi-
- []
-
-
-Underfull \hbox (badness 3838) in paragraph at lines 93--101
-\T1/ppl/m/n/10 drar på set-tet som skue-lys-
- []
-
-
-Underfull \hbox (badness 2080) in paragraph at lines 93--101
-\T1/ppl/m/n/10 ten. Å være ute blandt folk
- []
-
-
-Underfull \hbox (badness 3281) in paragraph at lines 93--101
-\T1/ppl/m/n/10 le-der som re-gel til noe bra
- []
-
-
-Underfull \hbox (badness 6961) in paragraph at lines 93--101
-\T1/ppl/m/n/10 og det-te var ikke et unn-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--101
-
- []
-
-
-Underfull \hbox (badness 2809) in paragraph at lines 102--111
-\T1/ppl/m/n/10 bard min-ner om det nors-ke
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--111
-
- []
-
-<Colesbay.jpg, id=180, 963.6pt x 722.7pt>
+ <Colesbay.jpg, id=180, 963.6pt x 722.7pt>
 File: Colesbay.jpg Graphic file (type jpg)
- <use Colesbay.jpg>
-Package pdftex.def Info: Colesbay.jpg used on input line 114.
+
+<use Colesbay.jpg>
+Package pdftex.def Info: Colesbay.jpg used on input line 112.
 (pdftex.def)             Requested size: 298.11377pt x 223.58255pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 3646) has occurred while \output is active []
-
- [43 <./klarforutsikselfie.jpg>]
+ [43 <./Colesbay.jpg>]
 <Turbarentsburgliten.png, id=185, 920.43875pt x 646.415pt>
 File: Turbarentsburgliten.png Graphic file (type png)
 
 <use Turbarentsburgliten.png>
-Package pdftex.def Info: Turbarentsburgliten.png used on input line 138.
+Package pdftex.def Info: Turbarentsburgliten.png used on input line 136.
 (pdftex.def)             Requested size: 202.49715pt x 142.21173pt.
 
 <Turbarentsburgstor.png, id=186, 1094.0875pt x 693.59125pt>
 File: Turbarentsburgstor.png Graphic file (type png)
 
 <use Turbarentsburgstor.png>
-Package pdftex.def Info: Turbarentsburgstor.png used on input line 145.
+Package pdftex.def Info: Turbarentsburgstor.png used on input line 144.
 (pdftex.def)             Requested size: 240.69998pt x 152.59055pt.
+ [44 <./Turbarentsburgliten.png> <./Turbarentsburgstor.png>]
+Underfull \hbox (badness 1092) in paragraph at lines 148--160
+\T1/ppl/m/n/10 opp til å bo med ham (ikke
+ []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--161
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
 
  []
 
-[44 <./Colesbay.jpg> <./Turbarentsburgliten.png>]
 <baatis.jpg, id=190, 1606.0pt x 1071.00125pt>
 File: baatis.jpg Graphic file (type jpg)
  <use baatis.jpg>
-Package pdftex.def Info: baatis.jpg used on input line 164.
+Package pdftex.def Info: baatis.jpg used on input line 163.
 (pdftex.def)             Requested size: 442.65375pt x 295.18811pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--186
+Underfull \hbox (badness 10000) in paragraph at lines 176--185
 
  []
 
-
-Underfull \vbox (badness 1496) has occurred while \output is active []
-
- [45 <./Turbarentsburgstor.png>] <Hundespann.jpg, id=194, 642.4pt x 481.8pt>
+<Hundespann.jpg, id=191, 642.4pt x 481.8pt>
 File: Hundespann.jpg Graphic file (type jpg)
-
-<use Hundespann.jpg>
-Package pdftex.def Info: Hundespann.jpg used on input line 197.
+ <use Hundespann.jpg>
+Package pdftex.def Info: Hundespann.jpg used on input line 196.
 (pdftex.def)             Requested size: 298.11377pt x 223.58623pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45 <./klarforutsikselfie.jpg>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1778,7 +1712,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: reinisolnedgang.jpg Graphic file (type jpg)
 
 <use reinisolnedgang.jpg>
-Package pdftex.def Info: reinisolnedgang.jpg used on input line 204.
+Package pdftex.def Info: reinisolnedgang.jpg used on input line 203.
 (pdftex.def)             Requested size: 442.65375pt x 295.09822pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1788,22 +1722,22 @@ Overfull \vbox (49.7269pt too high) has occurred while \output is active []
 
 
 [47 <./Hundespann.jpg> <./reinisolnedgang.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 210--224
+Underfull \hbox (badness 10000) in paragraph at lines 209--223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--231
+Underfull \hbox (badness 10000) in paragraph at lines 224--230
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--243
+Underfull \hbox (badness 10000) in paragraph at lines 231--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--265
+Underfull \hbox (badness 10000) in paragraph at lines 254--264
 
  []
 
@@ -1813,12 +1747,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [48]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 277.
+               Default added (so using `tbp') on input line 276.
 
 <Scooterogski.JPG, id=205, 3854.4pt x 2168.1pt>
 File: Scooterogski.JPG Graphic file (type jpg)
  <use Scooterogski.JPG>
-Package pdftex.def Info: Scooterogski.JPG used on input line 279.
+Package pdftex.def Info: Scooterogski.JPG used on input line 278.
 (pdftex.def)             Requested size: 298.11377pt x 167.66211pt.
  [49 <./Scooterogski.JPG>]) [50] (./main.aux (./Soramerikaforside.aux) (./Soram
 erika.aux) (./svalbardforside.aux) (./Svalbard.aux))
@@ -1838,7 +1772,7 @@ Here is how much of TeX's memory you used:
 ts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatin
 o/uplbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/
 share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (50 pages, 30880078 bytes).
+Output written on main.pdf (50 pages, 30879883 bytes).
 PDF statistics:
  232 PDF objects out of 1000 (max. 8388607)
  127 compressed objects within 2 object streams
