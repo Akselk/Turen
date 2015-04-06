@@ -15,7 +15,7 @@
 \makeatletter
 \newcommand*{\twopagepicture}[4]{%
     \checkoddpage
-    \ifoddpage
+    \ifevenpage
         \expandafter\@firstofone
     \else
         \expandafter\afterpage

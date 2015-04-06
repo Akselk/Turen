@@ -30,19 +30,12 @@
 \date{}
 
 \begin{document}
-\pagestyle{empty} % Removes page numbers
-\chapter*{Forord}
-Er oppskrytt
+\tableofcontents
 
-\begin{itemize}
-		
-\item \footnotesize{De fineste bildene på Svalbard er tatt av Stian Aadland.
-	Han er romkameraten til Jakob. Dere kan følge ham på
-	www.stianmedsekken.net. Alle bildene jeg har lagt med er tatt
-mens jeg var på samme sted til samme tid}
+\thispagestyle{empty}
+\include{forord}
 
-\item \footnotesize{Med unntak av reinsdyret. Der jukset jeg}
-\end{itemize}
+\pagestyle{plain}% Removes page numbers
 \include{Soramerikaforside}
 
 \include{Soramerika}
@@ -50,5 +43,14 @@ mens jeg var på samme sted til samme tid}
 \include{svalbardforside}
 
 \include{Svalbard}
+
+%\begin{figure}[H]
+%	\centering
+%	\vspace*{3cm}
+%	\twopagepicture{t}{p}{paasvalbardredigert}{Longyerbyen med
+%	litt filte\lr}
+%	\caption*{}
+%	\label{fig:svalbared}
+
 \end{document}
 
